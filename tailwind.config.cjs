@@ -4,6 +4,6 @@ module.exports = {
       center: true,
     },
   },
-  content: ["./src/routes/**/*.{svelte,js,ts}"],
-  plugins: [require("daisyui")],
+  content: ['./src/**/*.{svelte,js,ts, html}'],
+  plugins: [require('daisyui')],
 };
